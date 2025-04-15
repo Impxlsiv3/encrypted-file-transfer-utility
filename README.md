@@ -1,6 +1,6 @@
 # Encrypted File Transfer Utility
 
-A Flask-based dashboard for managing IT assets, including authentication, device tracking, and lifecycle status (Available, Assigned, Retired). Uses SQLite for persistent storage and a responsive front-end UI.
+A cross-platform GUI tool built with Tkinter and PyCryptodome to encrypt and decrypt files using AES-256. Ideal for secure file transfers between Linux/macOS systems in field support or remote environments.
 
 ## Features
 - AES-256 file encryption and decryption
