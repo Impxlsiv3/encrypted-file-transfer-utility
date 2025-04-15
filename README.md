@@ -1,6 +1,6 @@
 # Encrypted File Transfer Utility
 
-A cross-platform Python utility for securely encrypting and decrypting files using AES-256 (CBC mode). This version includes a simple GUI built with Tkinter.
+A Flask-based dashboard for managing IT assets, including authentication, device tracking, and lifecycle status (Available, Assigned, Retired). Uses SQLite for persistent storage and a responsive front-end UI.
 
 ## Features
 - AES-256 file encryption and decryption
